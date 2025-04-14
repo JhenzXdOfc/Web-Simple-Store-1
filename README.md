@@ -36,7 +36,7 @@ Template ini cocok untuk kamu yang ingin membuat toko online kecil, katalog prod
 
 ## 📷 Preview
 
-> Tambahkan screenshot atau preview website jika ada di bagian ini
+> web-simple-store-1.vercel.app
 
 ---
 
